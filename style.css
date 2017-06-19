@@ -1,0 +1,18 @@
+* {
+	margin-bottom: 20px;
+}
+.board h1 {
+	text-align: center;
+}
+.column-container {
+	width: 100%;
+}
+
+.column-title {
+	text-align: center;
+}
+.column {
+	float: left;
+	border: 1px solid;
+	width: 33%;
+}
